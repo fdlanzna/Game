@@ -102,4 +102,8 @@ int main(){
    }
     //penutupan program
    std::cout << " terima kasih telah bermain permainan gunting,kertas,batu " << std::endl << std::endl;
-   std::cout << " program 
+   std::cout << " program telah selesai dijalankan " << std::endl;
+
+  std::cin.get();
+  return 0;
+}
